@@ -23,6 +23,6 @@ Then, you’ll list important characteristics of each device, such as its owner,
   - Desktop------->Occasional------->Homeowner------->On-premises------->Contains private information, like photos.------->Restricted
   - Guest smartphone------->Occasional------->Friend------->On and Off-premises------->Connects to my home network.------->Internal-only
   - Printer------->Occasional------->Homeowner------->On-premises------->Prints out documents that's used for a variety of purposes------->Internal-only
-  - Storage devices or servers------->Continuous------->Homeowner------->On-premises------->Used to store data to access when needed------->Restricted
+  - Storage devices or servers------->Continuous------->Homeowner------->On-premises------->Used to store data to access when needed------->Confidential
   - Smart home devices------->Continuous------->Homeowner------->On-premises------->Connects to my home network.------->Internal-only	
   
